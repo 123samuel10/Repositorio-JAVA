@@ -1,19 +1,19 @@
 package EJERCICIO;
 
 public class FacturaUno {
-    private final String productoUno;
+    private  String productoUno;
     int cantidadaUno;
     int precio;
-    private final String productoDos;
+    private String productoDos;
     int cantidadDos;
     int precioDos;
-    private final String productoTres;
+    private String productoTres;
     int cantidadTres;
     int precioTres;
-    private final String productoCuatro;
+    private  String productoCuatro;
     int cantidadCuatro;
     int precioCuatro;
-    private final String productoCinco;
+    private String productoCinco;
     int cantidadCinco;
     int precioCinco;
 
