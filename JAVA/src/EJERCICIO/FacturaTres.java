@@ -1,6 +1,8 @@
 package EJERCICIO;
 
 public class FacturaTres {
+
+
     private String productoUno;
     int cantidadUno;
     int precioUno;

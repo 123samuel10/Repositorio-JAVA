@@ -42,6 +42,7 @@ public class FacturaDos {
         this.cantidadCinco=cantidadCinco;
         this.precioCinco=precioCinco;
     }
+
     public void mostrarPantalla(){
         System.out.println("el producto es: " + productoUno + "cantidad: " + cantidadUno + "precio: " + precioUno);
         System.out.println("el producto es: " + productoDos + "cantidad: " + cantidadDos + "precio: " + precioDos);
